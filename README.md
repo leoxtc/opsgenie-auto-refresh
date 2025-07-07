@@ -1,5 +1,7 @@
 # Opsgenie Alert Auto Refresher
 
+This is a forked version from the original project where the maintainer is not updating the Chrome Store anymore.
+
 Refresh Opsgenie's Alert Page (https://docs.opsgenie.com/docs/alerts-page) every 30s.
 
 ## Installation
