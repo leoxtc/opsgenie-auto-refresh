@@ -22,4 +22,4 @@ Refresh Opsgenie's Alert Page (https://docs.opsgenie.com/docs/alerts-page) every
 
 ## Version
 
-- 0.0.1: Initial Release
+- 0.0.2: Initial Release
