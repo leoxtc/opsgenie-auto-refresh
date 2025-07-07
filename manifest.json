@@ -1,7 +1,7 @@
 {
-	"name": "Opsgenie Alert Refresher",
+	"name": "Opsgenie Alert Auto Refresher",
 	"description": "Auto Refresh for Opsgenie Alerts",
-	"version": "1.0.0",
+	"version": "0.0.2",
 	"action": {
 		"default_icon": {
 			"16": "assets/logo-16.png",
